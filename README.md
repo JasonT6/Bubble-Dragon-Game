@@ -52,6 +52,7 @@ If you do have the DE1-SoC board:
 
 In the start screen, press ‘M’ for multiplayer and the ‘ENTER’ key for single-player.
 
+
 Figure 1. Start Screen
 
 
