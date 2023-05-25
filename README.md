@@ -52,9 +52,11 @@ If you do have the DE1-SoC board:
 
 In the start screen, press ‘M’ for multiplayer and the ‘ENTER’ key for single-player.
 
-
-Figure 1. Start Screen
-
+<p align = "center">
+  <img width="714" alt="Start Screen" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/746221ef-a262-4af9-8e2a-27218de41b29">
+  <div align="center">Figure 1. Start Screen</div>
+  
+</p>
 
 
 
@@ -65,7 +67,11 @@ Figure 1. Start Screen
 
 ### Single-player: ###
 
-Figure 2. Single Player
+<p align = "center">
+  <img width="722" alt="SinglePlayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/eda6e2df-d001-4c78-9e3c-325e0af88d3b">
+  <div align="center">Figure 2. Single Player</div>
+  
+</p>
 Hit all 5 enemies with a bubble in the shortest amount of time without dying.
 The player controls the green dragon.
 The enemies are the purple characters.
@@ -99,7 +105,12 @@ Upon winning or losing, the player can press ‘r’ to return to the start menu
 
 ### Multiplayer: ###
 
-Figure 3. Multiplayer
+<p align = "center">
+  <img width="722" alt="Multiplayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/266fcd15-5389-4615-b6a4-74be9e778c5d">
+  <div align="center">Figure 3. Multiplayer</div>
+  
+</p>
+
 Eliminate the enemy player. If a player gets hit with a bubble, they lose a life. Each player has 3 lives.
 Player 1 controls the green dragon:
 To jump, press ‘i’
