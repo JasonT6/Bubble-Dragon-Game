@@ -1,7 +1,7 @@
 # Bubble-Dragon-Game
 2D platformer game with single player and multiplayer built in C meant to be run on Intel FPGA DE1-SoC board.
 
-##GAME DESCRIPTION:
+## GAME DESCRIPTION:
 
 Bubble Dragons is a 2D game where the player controls a dragon that can shoot bubbles, jump, and walk on platforms. The player cannot drop through platforms, they must walk or jump off of them. There are 2 modes where the player can choose to play, either single-player or multiplayer.
 
@@ -32,7 +32,7 @@ Getting hit with a bubble provides the player with a brief shield to allow for s
 
 
 
-##HOW TO SET UP:
+## HOW TO SET UP:
 Create a directory on your computer containing the submitted “Bubble_Dragon.c” file.
 Open Intel FPGA Monitor Program and create a new project. Select the directory you created in Step 1 containing the “Bubble_Dragon.c” file and create a name for your project. Select the “ARM Cortex-A9” option in the “Architecture” drop-down menu before proceeding to the next page.
 Select the “DE1-SoC Computer” option in the “Select a system” drop-down menu before proceeding to the next page.
@@ -44,7 +44,7 @@ If it asks you to download the board, do it once if this is the first time start
 In “Actions” in the top left corner, choose “Compile & Load”
 After the project has finished compiling and loading, click the symbol with the yellow bar and green play button. It should say “Continue program execution from current instruction” when hovering over it.
 
-##HOW TO PLAY:
+## HOW TO PLAY:
 
 In the start screen, press ‘M’ for multiplayer and the ‘ENTER’ key for single-player.
 
@@ -58,7 +58,7 @@ Figure 1. Start Screen
 
 
 
-#Single-player:
+# Single-player:
 
 Figure 2. Single Player
 Hit all 5 enemies with a bubble in the shortest amount of time without dying.
@@ -92,7 +92,7 @@ Upon winning or losing, the player can press ‘r’ to return to the start menu
 
 
 
-#Multiplayer:
+# Multiplayer:
 
 Figure 3. Multiplayer
 Eliminate the enemy player. If a player gets hit with a bubble, they lose a life. Each player has 3 lives.
