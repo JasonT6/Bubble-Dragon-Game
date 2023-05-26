@@ -137,3 +137,4 @@ Both players cannot drop through platforms, they must walk or jump off.
 On the top right, are Player 2’s remaining bubbles and lives, On the top left, are Player 1’s remaining bubbles and lives.
 Upon getting hit by a bubble, the player gains a temporary shield to safely reposition.
 Upon winning or losing or drawing, you can press ‘r’ to return to the start menu.
+
