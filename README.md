@@ -35,6 +35,16 @@ Getting hit with a bubble provides the player with a brief shield to allow for s
 ## HOW TO SET UP:
 
 If you do not have an FPGA board, go to https://cpulator.01xz.net/?sys=arm-de1soc, choose C as the language, delete the assembly code in the text editor, and paste in the entire C code in Bubble_Dragon.c
+Note: Running the game on cputlator is much slower than running on the real FPGA board.
+Keyboard inputs should be inputted in the PS/2 keyboard or mouse window, and the game will be displayed in the VGA pixel buffer window.
+
+<p align = "center">
+  ![KeyboardInterupt](https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/b177ec88-0f57-48a3-8160-2ee4b4779189)
+
+  <div align="center">Figure 1. PS/2 keyboard or mouse window</div>
+  
+</p>
+
 
 If you do have the DE1-SoC board:
 1. Create a directory on your computer containing the submitted “Bubble_Dragon.c” file.
