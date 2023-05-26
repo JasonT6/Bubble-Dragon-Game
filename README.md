@@ -35,12 +35,13 @@ Getting hit with a bubble provides the player with a brief shield to allow for s
 ## HOW TO SET UP:
 
 If you do not have an FPGA board, go to https://cpulator.01xz.net/?sys=arm-de1soc, choose C as the language, delete the assembly code in the text editor, and paste in the entire C code in Bubble_Dragon.c
+
 Note: Running the game on cputlator is much slower than running on the real FPGA board.
+
 Keyboard inputs should be inputted in the PS/2 keyboard or mouse window, and the game will be displayed in the VGA pixel buffer window.
 
 <p align = "center">
-  ![KeyboardInterupt](https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/b177ec88-0f57-48a3-8160-2ee4b4779189)
-
+  <img width="500" alt="KeyboardInterupt" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/e6633f84-7da7-4768-a6c1-d188028ee3bf">
   <div align="center">Figure 1. PS/2 keyboard or mouse window</div>
   
 </p>
@@ -63,7 +64,7 @@ If you do have the DE1-SoC board:
 In the start screen, press ‘M’ for multiplayer and the ‘ENTER’ key for single-player.
 
 <p align = "center">
-  <img width="714" alt="Start Screen" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/746221ef-a262-4af9-8e2a-27218de41b29">
+  <img width="500" alt="Start Screen" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/746221ef-a262-4af9-8e2a-27218de41b29">
   <div align="center">Figure 1. Start Screen</div>
   
 </p>
@@ -78,7 +79,7 @@ In the start screen, press ‘M’ for multiplayer and the ‘ENTER’ key for s
 ### Single-player: ###
 
 <p align = "center">
-  <img width="722" alt="SinglePlayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/eda6e2df-d001-4c78-9e3c-325e0af88d3b">
+  <img width="500" alt="SinglePlayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/eda6e2df-d001-4c78-9e3c-325e0af88d3b">
   <div align="center">Figure 2. Single Player</div>
   
 </p>
@@ -116,7 +117,7 @@ Upon winning or losing, the player can press ‘r’ to return to the start menu
 ### Multiplayer: ###
 
 <p align = "center">
-  <img width="722" alt="Multiplayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/266fcd15-5389-4615-b6a4-74be9e778c5d">
+  <img width="500" alt="Multiplayer" src="https://github.com/JasonT6/Bubble-Dragon-Game/assets/97322813/266fcd15-5389-4615-b6a4-74be9e778c5d">
   <div align="center">Figure 3. Multiplayer</div>
   
 </p>
